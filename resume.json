@@ -1,0 +1,43 @@
+{
+    "About Me": ["Currently working as Software Developer in Great Software Laboratory, Pune with 2 years 10 months of total experience. Working as a Full Stack developer. Skilled in Web development, Android Development, Chat Bots, Machine Learning, IOT devices like fitbit and Voice Activated Assistant like Alexa or Dialog flow."],
+    "Work Experience": [
+        "Part of an Agile Team, working as a MEAN stack developer in Contact Centre Web project.",
+        "Worked on Virtual assistant like Alexa, Dialog ﬂow, liv.ai, Snowboy.",
+        "Worked on Android apps for Retail and Public safety.",
+        "Led a team to deliver quality product to customer.",
+        "Led a team to deliver quality product to customer.",
+        "Show cased our products at Gitex 2018 technical event in Dubai."
+    ],
+    "Tech Stack": [
+        "NodeJs",
+        "Angular 6",
+        "JavaScript",
+        "Dialogflow",
+        "Alexa",
+        "Java",
+        "Android",
+        "MySql",
+        "MongoDB",
+        "Linux"
+    ],
+    "Organisations": [
+        "Great Software Lab, Pune (Software Developer)",
+        "Army Institute of Technology, Pune (Bachelor of Engineering)"
+    ],
+    "Achievements": [
+        "Winner of Avaya Hackathon 2017",
+        "Rising Star 2017",
+        "Pat on the Back"
+    ],
+    "Hobbies": [
+        "Reading blogs",
+        "Travelling",
+        "Cooking",
+        "Watching TV series",
+        "Playing TT and Football"
+    ],
+    "Contact": [
+        "Email: vipin12457@gmail.com",
+        "Number: 8380949174"
+    ]
+}

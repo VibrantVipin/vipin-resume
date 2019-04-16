@@ -1,0 +1,23 @@
+{
+  "name": "vipin-resume",
+  "version": "1.0.0",
+  "description": "Vipin's resume as a npm package (just for fun).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VibrantVipin/vipin-resume.git"
+  },
+  "author": "Vipin Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VibrantVipin/vipin-resume/issues"
+  },
+  "homepage": "https://github.com/VibrantVipin/vipin-resume#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "inquirer": "^6.3.1"
+  }
+}
